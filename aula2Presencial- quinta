@@ -19,6 +19,6 @@ console.log(Number.MIN_VALUE);
 
 //Criar 1 variável para receber o valor 150:
 //questao3
-var numero = 150;
+var numero = new Number (150);
 console.log(numero);
-console.log(numero.toString())
+console.log(numero.toString());
